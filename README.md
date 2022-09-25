@@ -13,7 +13,7 @@ My skills
   My Project Cek http://www.xentaos.com/
 - Building GNU/Linux Technical Debostsraping Expert
   My Project Cek http://www.hacktracklinux.org/
-- Me Expert Can Make Packages Debian
+- Me Expert Can Make Packages Debian (debuild) & repository (reprepro)
   My Project Source Cek https://github.com/xentaoslinux 
                         https://github.com/hacktrackgnulinux
 My Goals
