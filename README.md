@@ -8,5 +8,15 @@
 ▒█░▒█ ▒█░ ▒█▒█▒█ ▒█░▒█ ▒█░ ▒█▒█▒█ 　 ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ 
 ▒█▄▄▀ ▄█▄ ▒█░░▀█ ▒█▄▄▀ ▄█▄ ▒█░░▀█ 　 ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█░░▀█ ▒█░▒█ ▒█▄▀▄█ ▒█░▒█ ▒█░░▀█
                                                           " return of dreams come true"
+My skills 
+- Building GNU/Linux Technical Remastering Expert
+  My Project Cek http://www.xentaos.com/
+- Building GNU/Linux Technical Debostsraping Expert
+  My Project Cek http://www.hacktracklinux.org/
+- Me Expert Can Make Packages Debian
+  My Project Source Cek https://github.com/xentaoslinux 
+                        https://github.com/hacktrackgnulinux
+My Goals
+- Deep Expert Building GNU/Linux
 ````
 <span style="color: #e25555;">&#9829;</span> From Indonesia ![flag](http://www.flags-and-anthems.com/images/flags/i/flag-indonesia-wehende-flagge-12x18.gif)
