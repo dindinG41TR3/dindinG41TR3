@@ -8,7 +8,7 @@
 ▒█░▒█ ▒█░ ▒█▒█▒█ ▒█░▒█ ▒█░ ▒█▒█▒█ 　 ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ 
 ▒█▄▄▀ ▄█▄ ▒█░░▀█ ▒█▄▄▀ ▄█▄ ▒█░░▀█ 　 ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█░░▀█ ▒█░▒█ ▒█▄▀▄█ ▒█░▒█ ▒█░░▀█
                                                           " return of dreams come true"
-My skills 
+My skills Expert
 - Building GNU/Linux Technical Remastering Expert
   My Project Cek http://www.xentaos.com/
 - Building GNU/Linux Technical Debostsraping Expert
@@ -16,7 +16,13 @@ My skills
 - Me Expert Can Make Packages Debian (debuild) & repository (reprepro)
   My Project Source Cek https://github.com/xentaoslinux 
                         https://github.com/hacktrackgnulinux
-My Goals
-- Deep Expert Building GNU/Linux
+My Goals On Learning
+- Deep Learning Expert Building GNU/Linux "Before Zero to Hero"
+  - Deep Learing Kernel & Firmware
+  - Deep learing Core (Minimal System)
+  - Deep Learning Base System (ArtWork System)
+  - Deep TEchnical build ISO Makers
+    - Deep IMAGE i386/i686 Expert
+    - Deep IMAGE amd64 Expert
 ````
 <span style="color: #e25555;">&#9829;</span> From Indonesia ![flag](http://www.flags-and-anthems.com/images/flags/i/flag-indonesia-wehende-flagge-12x18.gif)
