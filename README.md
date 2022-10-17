@@ -16,6 +16,10 @@ My skills Expert
 - Me Expert Can Make Packages Debian (debuild) & repository (reprepro)
   My Project Source Cek https://github.com/xentaoslinux 
                         https://github.com/hacktrackgnulinux
+- Expert Create Packages Debian .deb "Native" or "Quilt".
+- Create Packages Debian .deb from null to .deb.
+- Patch Packages Debian .deb from source code atau .deb
+
 My Goals On Learning
 - Deep Learning Expert Building GNU/Linux "Before Zero to Hero"
   - Deep Learing Kernel & Firmware
