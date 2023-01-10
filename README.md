@@ -8,20 +8,20 @@
 ▒█░▒█ ▒█░ ▒█▒█▒█ ▒█░▒█ ▒█░ ▒█▒█▒█ 　 ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ 
 ▒█▄▄▀ ▄█▄ ▒█░░▀█ ▒█▄▄▀ ▄█▄ ▒█░░▀█ 　 ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█░░▀█ ▒█░▒█ ▒█▄▀▄█ ▒█░▒█ ▒█░░▀█
                                                           " return of dreams come true"
-My Skills
-- Building GNU/Linux Technical Remastering Expert
-  My Project Cek http://www.xentaos.com/
+Skills
+- Building GNU/Linux Technical Remastering
+  Project at http://www.xentaos.com/
 - Building GNU/Linux Technical Debostsraping Expert
-  My Project Cek http://www.hacktracklinux.org/
-- Me Expert Can Make Packages Debian (debuild) & repository (reprepro)
-  My Project Source Cek https://github.com/xentaoslinux 
-                        https://github.com/hacktrackgnulinux
-- Expert Create Packages Debian .deb "Native" or "Quilt".
+  Project at http://www.hacktracklinux.org/
+- Make Packages Debian (debuild) & repository (reprepro)
+  Project Source at https://github.com/xentaoslinux 
+                    https://github.com/hacktrackgnulinux
+- Create Packages Debian .deb "Native" or "Quilt".
 - Create Packages Debian .deb from null to .deb.
 - Patch Packages Debian .deb from source code atau .deb
 
-My Learning
-- Deep Learning Expert Building GNU/Linux "Before Zero to Hero"
+Learning
+- Deep Learning Building GNU/Linux "Before Zero to Hero"
   - Deep Learing Kernel & Firmware
   - Deep learing Core (Minimal System)
   - Deep Learning Base System (ArtWork System)
