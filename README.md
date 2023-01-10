@@ -8,7 +8,7 @@
 ▒█░▒█ ▒█░ ▒█▒█▒█ ▒█░▒█ ▒█░ ▒█▒█▒█ 　 ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ 
 ▒█▄▄▀ ▄█▄ ▒█░░▀█ ▒█▄▄▀ ▄█▄ ▒█░░▀█ 　 ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█░░▀█ ▒█░▒█ ▒█▄▀▄█ ▒█░▒█ ▒█░░▀█
                                                           " return of dreams come true"
-My skills Expert
+My Skills
 - Building GNU/Linux Technical Remastering Expert
   My Project Cek http://www.xentaos.com/
 - Building GNU/Linux Technical Debostsraping Expert
@@ -20,7 +20,7 @@ My skills Expert
 - Create Packages Debian .deb from null to .deb.
 - Patch Packages Debian .deb from source code atau .deb
 
-My Goals On Learning
+My Learning
 - Deep Learning Expert Building GNU/Linux "Before Zero to Hero"
   - Deep Learing Kernel & Firmware
   - Deep learing Core (Minimal System)
