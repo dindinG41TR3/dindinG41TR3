@@ -8,10 +8,15 @@
 ▒█░▒█ ▒█░ ▒█▒█▒█ ▒█░▒█ ▒█░ ▒█▒█▒█ 　 ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ 
 ▒█▄▄▀ ▄█▄ ▒█░░▀█ ▒█▄▄▀ ▄█▄ ▒█░░▀█ 　 ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█░░▀█ ▒█░▒█ ▒█▄▀▄█ ▒█░▒█ ▒█░░▀█
                                                           " return of dreams come true"
+Activist
+- Open Source Software 
+- Distribusi Linux
+- Community and Sharing Linux
+
 Skills
 - Building GNU/Linux Technical Remastering
   Project at http://www.xentaos.com/
-- Building GNU/Linux Technical Debostsraping Expert
+- Building GNU/Linux Technical Debostsraping
   Project at http://www.hacktracklinux.org/
 - Make Packages Debian (debuild) & repository (reprepro)
   Project Source at https://github.com/xentaoslinux 
@@ -28,5 +33,25 @@ Learning
   - Deep TEchnical build ISO Makers
     - Deep IMAGE i386/i686 Expert
     - Deep IMAGE amd64 Expert
+    
+    
+       _,met$$$$$gg.          dindin@G41TR3 
+    ,g$$$$$$$$$$$$$$$P.       ------------- 
+  ,g$$P"     """Y$$.".        OS: HackTrack GNU/Linux 2023.1 (revolution) x86_64 
+ ,$$P'              `$$$.     Host: X200CA 1.0 
+',$$P       ,ggs.     `$$b:   Kernel: 5.10.0-18-amd64 
+`d$$'     ,$P"'   .    $$$    Uptime: ∞ hours, ∞ mins 
+ $$P      d$'     ,    $$P    Packages:  ∞  (dpkg),  ∞ (snap) 
+ $$:      $$.   -    ,d$$'    Shell: bash 5.1.4 
+ $$;      Y$b._   _,d$P'      Resolution: 1366x768 
+ Y$$.    `.`"Y$$$$P"'         DE: MATE 1.24.1 
+ `$$b      "-.__              WM: Metacity (Marco) 
+  `Y$$                        Theme: Revo [GTK2/3] 
+   `Y$$.                      Icons: Revo [GTK2/3] 
+     `$$b.                    Terminal: mate-terminal 
+       `Y$$b.                 Terminal Font: Monospace 10 
+          `"Y$b._             CPU: Intel Celeron 1007U ( ∞ ) @  ∞ GHz 
+              `"""            GPU: Intel  ∞  Core processor Graphics Controller 
+                              Memory: ∞ MiB / ∞ MiB                                                       
 ````
-<span style="color: #e25555;">&#9829;</span> From Indonesia ![flag](http://www.flags-and-anthems.com/images/flags/i/flag-indonesia-wehende-flagge-12x18.gif)
+
