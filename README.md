@@ -15,9 +15,9 @@ Activist
 
 Skills
 - Building GNU/Linux Technical Remastering
-  Project at http://www.xentaos.com/
+  Project at https://xentaos.blogspot.com/
 - Building GNU/Linux Technical Debostsraping
-  Project at http://www.hacktracklinux.org/
+  Project at http://hacktrackgnulinux.github.io/
 - Make Packages Debian (debuild) & repository (reprepro)
   Project Source at https://github.com/xentaoslinux 
                     https://github.com/hacktrackgnulinux
