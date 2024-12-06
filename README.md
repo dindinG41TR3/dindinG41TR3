@@ -37,14 +37,14 @@ Learning
     
        _,met$$$$$gg.          dindin@G41TR3 
     ,g$$$$$$$$$$$$$$$P.       ------------- 
-  ,g$$P"     """Y$$.".        OS: HackTrack GNU/Linux 2023.1 (revolution) x86_64 
+  ,g$$P"     """Y$$.".        OS: HackTrack GNU/Linux 2025.1 (revolution) x86_64 
  ,$$P'              `$$$.     Host: X200CA 1.0 
-',$$P       ,ggs.     `$$b:   Kernel: 5.10.0-18-amd64 
+',$$P       ,ggs.     `$$b:   Kernel: 6.1.0-28-amd64 
 `d$$'     ,$P"'   .    $$$    Uptime: ∞ hours, ∞ mins 
  $$P      d$'     ,    $$P    Packages:  ∞  (dpkg),  ∞ (snap) 
  $$:      $$.   -    ,d$$'    Shell: bash 5.1.4 
  $$;      Y$b._   _,d$P'      Resolution: 1366x768 
- Y$$.    `.`"Y$$$$P"'         DE: MATE 1.24.1 
+ Y$$.    `.`"Y$$$$P"'         DE: MATE 1.26 
  `$$b      "-.__              WM: Metacity (Marco) 
   `Y$$                        Theme: Revo [GTK2/3] 
    `Y$$.                      Icons: Revo [GTK2/3] 
