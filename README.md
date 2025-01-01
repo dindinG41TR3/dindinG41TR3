@@ -34,26 +34,24 @@ Learning
     - Deep IMAGE i386/i686 Expert
     - Deep IMAGE amd64 Expert
     
- [dindin@x200ca ~]$ neofetch
-                __.;=====;.__                   dindin@x200ca 
-            _.=+==++=++=+=+===;.                ------------- 
-             -=+++=+===+=+=+++++=_              OS: Void Linux x86_64 
-        .     -=:``     `--==+=++==.            Host: X200CA 1.0 
-       _vi,    `            --+=++++:           Kernel: 6.6.64_1 
-      .uvnvi.       _._       -==+==+.          Uptime: 48 mins 
-     .vvnvnI`    .;==|==;.     :|=||=|.         Packages: 685 (xbps-query) 
-+QmQQmpvvnv; _yYsyQQWUUQQQm #QmQ#:QQQWUV$QQm.   Shell: bash 5.2.32 
- -QQWQWpvvowZ?.wQQQE==<QWWQ/QWQW.QQWW(: jQWQE   Resolution: 1366x768 
-  -$QQQQmmU'  jQQQ@+=<QWQQ)mQQQ.mQQQC+;jWQQ@'   DE: LXDE 
-   -$WQ8YnI:   QWQQwgQQWV`mWQQ.jQWQQgyyWW@!     Theme: gnome [GTK2], Adwaita-da 
-     -1vvnvv.     `~+++`        ++|+++          Icons: Adwaita [GTK2], Xenta-X  
-      +vnvnnv,                 `-|===           Terminal: lxterminal 
-       +vnvnvns.           .      :=-           Terminal Font: Monospace 10 
-        -Invnvvnsi..___..=sv=.     `            CPU: Intel Celeron 1007U (2) @  
-          +Invnvnvnnnnnnnnvvnn;.                GPU: Intel 3rd Gen Core process 
-            ~|Invnvnvvnvvvnnv}+`                Memory: 1180MiB / 1792MiB 
-               -~|{*l}*|~
-                                                                        
-                                                                                                         
+       _,met$$$$$gg.          dindin@x200ca 
+    ,g$$$$$$$$$$$$$$$P.       ------------- 
+  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) x86_64 
+ ,$$P'              `$$$.     Host: X200CA 1.0 
+',$$P       ,ggs.     `$$b:   Kernel: 6.1.0-28-amd64 
+`d$$'     ,$P"'   .    $$$    Uptime: 44 mins 
+ $$P      d$'     ,    $$P    Packages: 1813 (dpkg) 
+ $$:      $$.   -    ,d$$'    Shell: bash 5.2.15 
+ $$;      Y$b._   _,d$P'      Resolution: 1366x768 
+ Y$$.    `.`"Y$$$$P"'         DE: LXDE 
+ `$$b      "-.__              WM: Openbox 
+  `Y$$                        WM Theme: Onyx 
+   `Y$$.                      Theme: Adwaita [GTK2/3] 
+     `$$b.                    Icons: gnome-brave [GTK2/3] 
+       `Y$$b.                 Terminal: lxterminal 
+          `"Y$b._             Terminal Font: Monospace 10 
+              `"""            CPU: Intel Celeron 1007U (2) @ 1.500GHz 
+                              GPU: Intel 3rd Gen Core processor Graphics Contro 
+                              Memory: 1313MiB / 1786MiB                                                                                                        
 ````
 
