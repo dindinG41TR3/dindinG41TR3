@@ -34,24 +34,23 @@ Learning
     - Deep IMAGE i386/i686 Expert
     - Deep IMAGE amd64 Expert
     
-       _,met$$$$$gg.          dindin@x200ca 
-    ,g$$$$$$$$$$$$$$$P.       ------------- 
-  ,g$$P"     """Y$$.".        OS: Debian GNU/Linux 12 (bookworm) x86_64 
- ,$$P'              `$$$.     Host: X200CA 1.0 
-',$$P       ,ggs.     `$$b:   Kernel: 6.1.0-28-amd64 
-`d$$'     ,$P"'   .    $$$    Uptime: 44 mins 
- $$P      d$'     ,    $$P    Packages: 1813 (dpkg) 
- $$:      $$.   -    ,d$$'    Shell: bash 5.2.15 
- $$;      Y$b._   _,d$P'      Resolution: 1366x768 
- Y$$.    `.`"Y$$$$P"'         DE: LXDE 
- `$$b      "-.__              WM: Openbox 
-  `Y$$                        WM Theme: Onyx 
-   `Y$$.                      Theme: Adwaita [GTK2/3] 
-     `$$b.                    Icons: gnome-brave [GTK2/3] 
-       `Y$$b.                 Terminal: lxterminal 
-          `"Y$b._             Terminal Font: Monospace 10 
-              `"""            CPU: Intel Celeron 1007U (2) @ 1.500GHz 
-                              GPU: Intel 3rd Gen Core processor Graphics Contro 
-                              Memory: 1313MiB / 1786MiB                                                                                                        
+         _,met$$$$$gg.           dindin@X200CA
+      ,g$$$$$$$$$$$$$$$P.        OS: Debian 12 bookworm
+    ,g$$P""       """Y$$.".      Kernel: x86_64 Linux 6.1.0-43-amd64
+   ,$$P'              `$$$.      Uptime: 1h 57m
+  ',$$P       ,ggs.     `$$b:    Packages: 2174
+  `d$$'     ,$P"'   .    $$$     Shell: bash 5.2.15
+   $$P      d$'     ,    $$P     Resolution: 1366x768
+   $$:      $$.   -    ,d$$'     DE: LXDE
+   $$\;      Y$b._   _,d$P'      WM: OpenBox
+   Y$$.    `.`"Y$$$$P"'          WM Theme: Box8
+   `$$b      "-.__               GTK Theme: Clearlooks [GTK2]
+    `Y$$                         Icon Theme: Faenza
+     `Y$$.                       Font: Sans 11
+       `$$b.                     Disk: 42G / 117G (38%)
+         `Y$$b.                  CPU: Intel Celeron 1007U @ 2x 1.5GHz [90.0°C]
+            `"Y$b._              GPU: Intel Corporation 3rd Gen Core processor Graphics Controller (rev 09)
+                `""""            RAM: 997MiB / 1786MiB
+                                                                                                       
 ````
 
