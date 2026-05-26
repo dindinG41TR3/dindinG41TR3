@@ -7,7 +7,14 @@
 ▒█▀▀▄ ▀█▀ ▒█▄░▒█ ▒█▀▀▄ ▀█▀ ▒█▄░▒█ 　 ▒█░▒█ ▒█▀▀▀ ▒█▀▀█ ▒█▄░▒█ ░█▀▀█ ▒█░░▒█ ░█▀▀█ ▒█▄░▒█ 
 ▒█░▒█ ▒█░ ▒█▒█▒█ ▒█░▒█ ▒█░ ▒█▒█▒█ 　 ▒█▀▀█ ▒█▀▀▀ ▒█▄▄▀ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ ▒█▄▄█ ▒█▒█▒█ 
 ▒█▄▄▀ ▄█▄ ▒█░░▀█ ▒█▄▄▀ ▄█▄ ▒█░░▀█ 　 ▒█░▒█ ▒█▄▄▄ ▒█░▒█ ▒█░░▀█ ▒█░▒█ ▒█▄▀▄█ ▒█░▒█ ▒█░░▀█
-                                                          "It's time to return the revenge"
+                                               "It's time to return the revenge"
+Games :  
+Growtopia  
+Crystal Realms
+
+Text Editor :
+Geany  
+                                                          
 Activist
 - Open Source Software 
 - Distribusi Linux
